@@ -1,7 +1,8 @@
-ABOUT
-=====
-
 #SKYE
+![alt text](screenshots/screenshot1.png)
+
+##ABOUT
+##=====
 Skye is a short video game, focused on atmosphere and movement mechanics. It was developed for Computer Graphics and Game Techonology course on University of Ljubljana, Faculty of Computer and Information Science.
 
 You play as a rebel operative in a dystopian future city. Catch the Uni. Corp drone, marked on your HUD to win the game. 
@@ -21,12 +22,15 @@ wallrun: sprint next to a wall
 Game idea: Peter Colaric
 
 Programming:
--player movement: Rok Petrovcic Viûintin
--AI, GUI: Matic Ceöarek
--bug fixes: Ivan Anteöic
+player movement: Rok Petrovcic Vi≈æintin
+AI, GUI: Matic Ce≈°arek
+bug fixes: Ivan Ante≈°ic
 
-Level Design, Modeling, Textures: Ivan Anteöic
+Level Design, Modeling, Textures: Ivan Ante≈°ic
 
 Fog: Peter Colaric
 
 music: 
+
+![alt text](screenshots/screenshot2.png)
+![alt text](screenshots/screenshot3.png)
