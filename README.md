@@ -27,11 +27,11 @@ Game idea: Peter Colaric
 
 Programming:
 
-player movement: Rok Petrovcic Vižintin
+  -player controller: Rok Petrovcic Vižintin
 
-AI, GUI: Matic Cešarek
+  -AI, GUI: Matic Cešarek
 
-bug fixes: Ivan Antešic
+  -bug fixes: Ivan Antešic
 
 Level Design, Modeling, Textures: Ivan Antešic
 
@@ -42,3 +42,5 @@ music: LeviDoron - "Watch Dogs Remix"
 ![alternativetext](screenshots/Screenshot2.png)
 
 ![alternativetext](screenshots/Screenshot3.png)
+
+This game is not meant to be sold, it was created for educational purposes only.
