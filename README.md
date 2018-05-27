@@ -3,7 +3,7 @@
 ![alternativetext](screenshots/Screenshot1.png)
 
 ## ABOUT
-Skye is a short video game, focused on atmosphere and movement mechanics. It was developed for Computer Graphics and Game Techonology course on University of Ljubljana, Faculty of Computer and Information Science.
+Skye is a short video game, focused on atmosphere and movement mechanics. It was developed as a group project for Computer Graphics and Game Techonology course on University of Ljubljana, Faculty of Computer and Information Science.
 
 You play as a rebel operative in a dystopian future city. Catch the Uni. Corp drone, marked on your HUD to win the game. 
 
@@ -22,6 +22,7 @@ sprint: shift
 wallrun: sprint next to a wall
 
 ## CREDITS
+
 Game idea: Peter Colaric
 
 Programming:
@@ -36,7 +37,7 @@ Level Design, Modeling, Textures: Ivan Antešic
 
 Fog: Peter Colaric
 
-music: 
+music: LeviDoron - "Watch Dogs Remix" 
 
 ![alternativetext](screenshots/Screenshot2.png)
 
