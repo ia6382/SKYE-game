@@ -1,5 +1,5 @@
 # SKYE
-![alt text](https://github.com/ia6382/SKYE_game/tree/master/screenshots/Screenshot (91).png)
+![alt text](https://github.com/ia6382/SKYE_game/tree/master/screenshots/Screenshot1.png)
 
 ## ABOUT
 Skye is a short video game, focused on atmosphere and movement mechanics. It was developed for Computer Graphics and Game Techonology course on University of Ljubljana, Faculty of Computer and Information Science.
@@ -36,6 +36,6 @@ Level Design, Modeling, Textures: Ivan Antešic
 Fog: Peter Colaric
 
 music: 
+![alt text](https://github.com/ia6382/SKYE_game/tree/master/screenshots/Screenshot2.png)
 
-![alt text](screenshots/screenshot(91).png)
-![alt text](screenshots/screenshot(95).png)
+![alt text](https://github.com/ia6382/SKYE_game/tree/master/screenshots/Screenshot3.png)
