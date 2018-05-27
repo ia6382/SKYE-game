@@ -1,5 +1,5 @@
 #SKYE
-![alt text](screenshots/screenshot1.png)
+![alt text](screenshots/screenshot(92).png)
 
 ##ABOUT
 ##=====
@@ -32,5 +32,5 @@ Fog: Peter Colaric
 
 music: 
 
-![alt text](screenshots/screenshot2.png)
-![alt text](screenshots/screenshot3.png)
+![alt text](screenshots/screenshot(91).png)
+![alt text](screenshots/screenshot(95).png)
