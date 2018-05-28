@@ -7,7 +7,7 @@ Skye is a short video game, focused on atmosphere and movement mechanics. It was
 
 You play as a rebel operative in a dystopian future city. Catch the Uni. Corp drone, marked on your HUD to win the game. 
 
-## HOW TO PLAY
+## CONTROLS
 
 movement: WASD keys
 
@@ -20,6 +20,9 @@ dash: F
 sprint: shift
 
 wallrun: sprint next to a wall
+
+## HOW TO PLAY
+Download skyeWindows.rar file and extract it. Run skyeWindows.exe to play the game. 
 
 ## CREDITS
 
