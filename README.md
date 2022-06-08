@@ -36,7 +36,7 @@ Programming:
 
   -bug fixes: Ivan Antešic
 
-Level Design, Modeling, Textures: Ivan Antešic
+Level Design, Textures: Ivan Antešic
 
 Fog: Peter Colaric
 
