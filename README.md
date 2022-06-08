@@ -26,19 +26,19 @@ Download skyeWindows.rar file and extract it. Run skyeWindows.exe to play the ga
 
 ## CREDITS
 
-Game idea: Peter Colaric
+Game idea: Peter Colarič
 
 Programming:
 
-  -player controller: Rok Petrovcic Vižintin
+  -player controller: Rok Petrovčič Vižintin
 
-  -AI, GUI: Matic Cešarek
+  -AI, GUI: Matic Češarek
 
-  -bug fixes: Ivan Antešic
+  -bug fixes: Ivan Antešić
 
-Level Design, Textures: Ivan Antešic
+Level Design, Textures: Ivan Antešić
 
-Fog: Peter Colaric
+Fog: Peter Colarič
 
 music: LeviDoron - "Watch Dogs Remix" 
 
