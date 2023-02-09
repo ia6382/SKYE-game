@@ -3,7 +3,7 @@
 ![alternativetext](screenshots/Screenshot1.png)
 
 ## ABOUT
-Skye is a short video game, focused on atmosphere and movement mechanics. It was developed as a group project for Computer Graphics and Game Techonology course on University of Ljubljana, Faculty of Computer and Information Science.
+Skye is a short video game, focused on atmosphere and movement mechanics. It was developed as a group project for Computer Graphics and Game Techonology course at the University of Ljubljana, Faculty of Computer and Information Science in 2017, using the Unity game engine.
 
 You play as a rebel operative in a dystopian future city. Catch the Uni. Corp drone, marked on your HUD to win the game. 
 
@@ -32,7 +32,7 @@ Programming:
 
   -player controller: Rok Petrovčič Vižintin
 
-  -AI, GUI: Matic Češarek
+  -AI drone, GUI: Matic Češarek
 
   -bug fixes: Ivan Antešić
 
@@ -45,5 +45,3 @@ music: LeviDoron - "Watch Dogs Remix"
 ![alternativetext](screenshots/Screenshot2.png)
 
 ![alternativetext](screenshots/Screenshot3.png)
-
-This game is not meant to be sold, it was created for educational purposes only.
