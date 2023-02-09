@@ -3,7 +3,7 @@
 ![alternativetext](screenshots/Screenshot1.png)
 
 ## ABOUT
-Skye is a short video game, focused on atmosphere and movement mechanics. It was developed as a group project for Computer Graphics and Game Techonology course at the University of Ljubljana, Faculty of Computer and Information Science in 2017, using the Unity game engine.
+Skye is a short video game, focused on atmosphere and movement mechanics. It was developed as a group project for Computer Graphics and Game Technology course at the University of Ljubljana, Faculty of Computer and Information Science in 2017, using the Unity game engine.
 
 You play as a rebel operative in a dystopian future city. Catch the Uni. Corp drone, marked on your HUD to win the game. 
 
